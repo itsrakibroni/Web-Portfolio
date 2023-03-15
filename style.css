@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+/* FONTS AREA END */
+body{
+    overflow-y: scroll;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.name-highlight {
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 50%;
+}
